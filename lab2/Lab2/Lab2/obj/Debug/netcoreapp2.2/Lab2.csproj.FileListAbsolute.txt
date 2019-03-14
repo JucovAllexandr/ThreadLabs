@@ -1,0 +1,11 @@
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/bin/Debug/netcoreapp2.2/Lab2.deps.json
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/bin/Debug/netcoreapp2.2/Lab2.runtimeconfig.json
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/bin/Debug/netcoreapp2.2/Lab2.runtimeconfig.dev.json
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/bin/Debug/netcoreapp2.2/Lab2.dll
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/bin/Debug/netcoreapp2.2/Lab2.pdb
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/obj/Debug/netcoreapp2.2/Lab2.csprojAssemblyReference.cache
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/obj/Debug/netcoreapp2.2/Lab2.csproj.CoreCompileInputs.cache
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/obj/Debug/netcoreapp2.2/Lab2.AssemblyInfoInputs.cache
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/obj/Debug/netcoreapp2.2/Lab2.AssemblyInfo.cs
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/obj/Debug/netcoreapp2.2/Lab2.dll
+/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/obj/Debug/netcoreapp2.2/Lab2.pdb
