@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/Lab2.csproj",
+    "projectUniqueName": "/home/sania/RiderProjects/threads/ThreadLabs/lab2/Lab2/Lab2/Lab2.csproj",
     "projectName": "Lab2",
-    "projectPath": "/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/Lab2.csproj",
-    "outputPath": "/home/sania/RiderProjects/threads/lab2/Lab2/Lab2/obj/",
+    "projectPath": "/home/sania/RiderProjects/threads/ThreadLabs/lab2/Lab2/Lab2/Lab2.csproj",
+    "outputPath": "/home/sania/RiderProjects/threads/ThreadLabs/lab2/Lab2/Lab2/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
